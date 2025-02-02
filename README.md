@@ -1,8 +1,8 @@
-Project Name] 🎯
+FairShare 🎯
 
 Basic Details
 
-Team Name: [Name]
+Team Name: Trial&error
 
 Team Members
 
